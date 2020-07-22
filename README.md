@@ -1,10 +1,12 @@
 # refactor_accessibility project
 
-#Purpose
+Purpose
 
 The purpose of this project was to make minor modificaitons to an already-existing website for Horiseon. They specialize in SEO (Search Engine Optimization), online reputation management, and social media marketing. A screenshot of the landing page can be seen below. It is marked to show where the changes were made.
 
 (C:\Users\Layne\Desktop\code\homework\week-1\horiseon_landing_page.png)
+
+Lessons
 
 The biggest thing I learned from this project is attention to small details. Two links in the header worked properly; a third did not. It took a few minutes of comparing the commands in the html file, but I finally discovered the third link wasn't working because it was missing the 'class' command within the div tag.
 
