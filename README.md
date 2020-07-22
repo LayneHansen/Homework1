@@ -1,6 +1,6 @@
 # refactor_accessibility project
 
-#Purpose
+Purpose
 
 The purpose of this project was to make minor modificaitons to an already-existing website for Horiseon. They specialize in SEO (Search Engine Optimization), online reputation management, and social media marketing. A screenshot of the landing page can be seen below. It is marked to show where the changes were made.
 
