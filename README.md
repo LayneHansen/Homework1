@@ -1,10 +1,18 @@
 # refactor_for_accessibility project
 
-Purpose
+### Purpose
 
 The purpose of this project was to make minor modificaitons to an already-existing website for Horiseon. They specialize in SEO (Search Engine Optimization), online reputation management, and social media marketing. A screenshot of the landing page can be seen below. It is marked to show where the changes were made.
 
-(C:\Users\Layne\Desktop\code\homework\week-1\horiseon_landing_page.png)
+### Screenshot
+
+![screenshot](.\assets\images\horiseon_landing_page.png)
+
+### URL
+
+https://github.com/LayneHansen/refactor_for_accessibility
+
+### Lessons
 
 Link:
 
