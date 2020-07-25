@@ -1,0 +1,42 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 700px;
+    margin: 0 auto;
+}
+
+.header {
+    height: 200px;
+    padding: 10px;
+    background-color: blue;
+    border 5px solid black;
+}
+
+.aside {
+    background-color: blue;
+    width: 300px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid black;
+    float: left;
+}
+
+.main {
+    background-color: blue;
+    width: 400px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid black;
+    float: left;
+}
+
+.footer {
+    background-color: blue;
+    width: 100px;
+    height: 400px;
+    padding: 10px;
+    border: 1px solid black;
+    float: left;
+}

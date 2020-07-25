@@ -6,7 +6,7 @@ The purpose of this project was to make minor modificaitons to an already-existi
 
 ### Screenshot
 
-![screenshot](.\assets\images\horiseon_landing_page.png)
+![screenshot](assets\images\horiseon_landing_page.png)
 
 ### URL
 
